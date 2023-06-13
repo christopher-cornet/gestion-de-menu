@@ -1,4 +1,4 @@
-# Gestion de menu
+# Menu manager
 <b>Develop a web application allowing restaurateurs to create, personalize and share their restaurant's menu.</b>
 
 The user should be able to perform the following actions:
