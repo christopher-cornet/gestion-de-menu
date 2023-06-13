@@ -1,9 +1,9 @@
 # Gestion de menu
-<b>Développer une application web qui permet aux restaurateurs de créer, personnaliser et partager le menu de leur restaurant.</b>
+<b>Develop a web application allowing restaurateurs to create, personalize and share their restaurant's menu.</b>
 
-L’utilisateur doit pouvoir effectuer les actions suivantes :
-- Ajouter un plat, des menus, et pouvoir les modifier ainsi que les supprimer.
-- Chaque menu / plat doit avoir différentes informations comme une description, un prix, une image, une catégorie...
-- Gérer les ingrédients que compose le plat
-- Une gestion des catégories, ajout, suppression de catégorie...
-- Un système de connexion pour les restaurateurs.
+The user should be able to perform the following actions:
+- Add a dish, menus, and be able to modify them as well as delete them.
+- Each menu/dish must include different information such as description, price, image, category...
+- Manage the ingredients that make up the dish/menus
+- Category management, adding, deleting categories...
+- A connection system for restorers.
